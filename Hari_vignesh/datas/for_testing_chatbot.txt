@@ -1,0 +1,158 @@
+ (yeah i will say About Diggibyte Technology and Cuelebre : we are End to End technology services provider for your Data Anlaytics needs right from building strategy to architecting the platform and
+ to the deployment of dashboards in Cloud/On-prem and We work with modern tools and technologies that modernize,
+ automate & support in solving data challenges with AI & ML by finding the right trends & patterns and We excel in leveraging the most advanced technologies,
+ to accelerate your day-to-day operations and increase business process efficiency by playing around your data to derive valuable outcomes
+ Diggibyte solve your business problems by integrating your Data Engineering and Advanced Analytics Tools & Technologies 
+ To visit Home page : https://diggibyte.com/index.html).
+
+
+(Address of the Diggibyte Technologies Private Limited: (Connect with us to achieve new milestones and win your customers)
+ Address        : Diggibyte Technologies Private Limited,Novel Tech Park,3rd Floo,Kudlu gate,Muneshwara nagar Bengaluru,Karnataka-560068
+ Google location: https://www.google.com/maps/place/Novel+Tech+Park/@12.8914639,77.6414856,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae14b0129745ff:0xf9d4a7aab0502205!8m2!3d12.8914639!4d77.6414856 visit 
+ website        : info@diggibyte.com)
+ contact of our Sales team  at [Sales:sales@diggibyte.com  mobile number: +91-8110889199] 
+ Contact our Human resourse at [HR   :hr@diggibyte.com     mobile number: +91-8110889599].
+
+(Our valuable Partner of Diggibyte Technologies is [ Databricks ] 
+ About Databricks : Our partnership with Databricks allows us to leverage scaled computation and advanced machine learning capabilities Among Databricks' out-of-the-box capacities,
+ Databricks is a pioneer and leader in the field,
+ In addition, we have Data engineers and Data analysts certified in Databricks,These experts offer consulting services to help organizations implement real-time solutions and deliver actual value from Data,
+ Databricks has seamless integration with leading cloud providers such as Azure AWS and Google Cloud Platform, facilitating processing data needed for advanced ML implementations,
+ Diggibyte also has pluggable and customizable assets that integrate with Databricks and speed up data onboarding,
+ In addition, Diggibyte's team of certified professionals are skilled and proficient in Databricks implantation and Architectural Solution Design we set up, develop,
+ and maintain the data pipeline and data analytics solutions on the Databricks platform, Our Databricks Partnership allows us to gain exclusive access to new features,
+ training, and resources that directly enable us to solve Data Challenges for our customers in the most efficient way link: https://diggibyte.com/partners.html#.)
+
+(careers at Diggibyte We're more than just a workplace, We're a family,
+ We know that finding a meaningful and rewarding job can be a long journey, Our goal is to make that process as easy as possible for you,
+ and to create a work environment that's satisfying - one where you'll look forward to coming to every day,
+ Start your journey with us by browsing available jobs link: https://diggibyte.zohorecruit.in/jobs/careers-diggibyte ).
+
+(Service that provide by Diggibyte is:
+ 1) Advisory and consulting         : To know more click here : https://diggibyte.com/advisory-consulting.html
+ 2) Data and platform engineering   : To know more click here : https://diggibyte.com/Data-platform-engg.html
+ 3) Data science AI/ML              : To know more click here : https://diggibyte.com/data-science.html
+ 4) Advanced and Business Analytics : To know more click here : https://diggibyte.com/advanced-business-analytics.html
+ 5) Devops and Maintanance          : To know more click here : https://diggibyte.com/advanced-business-analytics.html ).
+
+(Resource of our Diggibyte Technologies are:
+ Blog's            : visit : https://blogs.diggibyte.com/
+ Whitepaper/E-book : visit : https://blogs.diggibyte.com/whitepaper-e-books/ ).
+
+(We combine the latest tools and technologies to accelerate your business growth and increase productivity and efficiency:
+ Tools are : 
+1)apache airflow
+2)amazon athena
+3)azure iot hub 
+4)beam
+5)azure devops
+6)jenkins
+7)kafka
+8)knime
+9)kubernets
+10)maven
+11)mongo db
+12)nosql-net
+13)amazon redshift
+14)apache spark
+15)tensorfow
+16)docker
+17)sql  
+these are the tools we using in our organization).
+
+( CEO of Diggibyte Technology is : William Rathinasamy ).
+
+( CTO of Diggibyte Technology is : Anuj Sen ).
+
+( COO of Diggibyte Technology is : Sekhar Pvr ).
+
+( CFO of Diggibyte Technology is : Lawrance Amburose ).
+
+(Specialties of Diggibyte Technology is  :
+ Big Data, Hadoop, Business Intelligence, 
+ Data & Analytics, Azure Data Factory, Azure Databricks, 
+ Data Warehousing, Azure DevOps, AWS, 
+ Qlik sense, Microsoft Power Bi, Tableau, 
+ CDP, Machine Learning, Data Scientist, and SharePoint ).
+
+.--------------------------------------------------------------------------------------------------------------------------------.
+
+(Data science is an interdisciplinary field that uses scientific methods, processes,
+ algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data,
+ and apply knowledge from data across a broad range of application domains
+[Statistics,
+ Visualization,
+ Deep Learning,
+ Machine Learning are important Data Science concepts]
+ To know more visit here: https://en.wikipedia.org/wiki/Data_science ).
+
+(Data engineers build systems for collecting, validating, and preparing that high-quality data,
+ Data engineers gather and prepare the data and data scientists use the data to promote better business decisions
+ In order to perform their responsibilities efficiently and effectively, data engineers must possess the following technical and soft skills:
+1)Coding
+2)Data warehousing
+3)Knowledge of operating systems
+4)Database systems
+5)Data analysis
+6)Critical thinking skills
+7)Basic understanding of machine learning
+8)Communication skills
+To know more visit here : https://en.wikipedia.org/wiki/Data_engineering ).
+
+
+(PowerBI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent,
+ visually immersive, and interactive insights, Your data may be an Excel spreadsheet,
+ or a collection of cloud-based and on-premises hybrid data warehouses,
+ one of the most important skills that a Power BI Developer must have is proficiency or familiarity with data science, business intelligence, and data analytics,
+ Power BI Developer must also be aware of :
+1) data integration
+2) data warehousing, 
+3) modeling along with presentation tactics and concepts
+To know more visit here : https://en.wikipedia.org/wiki/Microsoft_Power_BI ).
+
+
+(A full stack web developer is a person who can develop both client and server software
+ In addition to mastering HTML and CSS, he/she also knows how to: Program a browser (like using JavaScript, jQuery, Angular, or Vue) 
+ Program a server (like using PHP, ASP, Python, or Node)
+ To know more visit here : https://en.wikipedia.org/wiki/Full_stack ).
+
+(A DevOps engineer is an IT generalist who should have a wide-ranging knowledge of both development and operations,
+ including coding, infrastructure management, system administration, and DevOps toolchains,
+ DevOps engineers should also possess interpersonal skills since they work across company silos to create a more collaborative environment
+To know more visit here : https://en.wikipedia.org/wiki/DevOps ).
+
+.------------------------------------------------------------------------------------------------------------------------.
+
+(Python is a high-level, general-purpose programming language,
+ Its design philosophy emphasizes code readability with the use of significant indentation,
+ Python is dynamically-typed and garbage-collected,
+ It supports multiple programming paradigms, including structured, object-oriented and functional programming).
+
+(PySpark is an interface for Apache Spark ,
+ It not only allows you to write Spark applications using Python APIs,
+ but also provides the PySpark shell for interactively analyzing your data in a distributed environment
+ PySpark supports most of Spark’s features such as Spark SQL, DataFrame, Streaming, MLlib (Machine Learning) and Spark Core).
+
+(SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system,
+ or for stream processing in a relational data stream management system ).
+
+(Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible).
+
+(C is a general-purpose computer programming language, It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential,
+ By design, C's features cleanly reflect the capabilities of the targeted CPUs )
+ The C programming language is the recommended language for creating embedded system drivers and applications,
+ The availability of machine-level hardware APIs, as well as the presence of C compilers, dynamic memory allocation,
+ and deterministic resource consumption, make this language the most popular ).
+
+(Machine language is a low-level language made up of binary numbers or bits that a computer can understand,
+ It is also known as machine code or object code and is extremely tough to comprehend, The only language that the computer understands is machine language,
+ All programmes and programming languages, such as Swift and C++, produce or run programmes in machine language before they are run on a computer, When a specific task,
+ even the smallest process executes, machine language is transported to the system processor, Computers are only able to understand binary data as they are digital devices).
+
+(Deep learning is a machine learning technique that teaches computers to do what comes naturally to humans: learn by example,
+ Deep learning is a key technology behind driverless cars, enabling them to recognize a stop sign, or to distinguish a pedestrian from a lamppost ).
+
+(Artificial Intelligence (AI) is the branch of computer sciences that emphasizes the development of intelligence machines, thinking and working like humans, For example,
+ speech recognition, problem-solving, learning and planning).
+
+.---------------------------------------------------------------------------------------------------------------------------------------------------.
